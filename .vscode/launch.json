@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - FactoryPattern",
+      "request": "launch",
+      "mainClass": "com.jinggao.creative.factorypattern.FactoryPattern"
+    },
+  ]
+}
