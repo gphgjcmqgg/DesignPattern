@@ -2,9 +2,15 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - AbstractFactoryPattern",
+      "request": "launch",
+      "mainClass": "com.jinggao.creative.abstractfactorypattern.AbstractFactoryPattern"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - FactoryPattern",
       "request": "launch",
       "mainClass": "com.jinggao.creative.factorypattern.FactoryPattern"
-    },
+    }
   ]
 }
